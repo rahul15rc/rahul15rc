@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rahul15rc
 - 👀 I’m interested in Computer Science, Problem Solving.
-- 🌱 I’m currently learning Web Programming, DSA, Competitive Programming.
+- 🌱 I’m currently learning Web Development, Data Science, DSA, and Competitive Programming.
 - 📫 How to reach me:
 - Linkedin: https://www.linkedin.com/in/rahulchougule15/
